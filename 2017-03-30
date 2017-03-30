@@ -4,3 +4,7 @@
 還原後更糟,hyperledger fabric 裝不起來
 又得瞎忙一陣子浪費時間
 
+補充那個很靠北的gnu-tar ,要人工編譯
+docker-compose要設定/etc/hosts
+127.0.0.1       localunixsocket
+
